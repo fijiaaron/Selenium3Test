@@ -1,0 +1,10 @@
+README
+
+Need to add the following to build path:
+
+Selenium3Test/src/main/resources/selenium-java-3.0.0-beta2/client-combined-3.0.0-beta2-nodeps.jar
+
+Selenium3Test/src/main/resources/selenium-java-3.0.0-beta2/lib/*
+
+This can be done with Maven/Gradle, but not if you have a local build, or direct download from SeleniumHQ
+http://selenium-release.storage.googleapis.com/3.0-beta2/selenium-java-3.0.0-beta2.zip
